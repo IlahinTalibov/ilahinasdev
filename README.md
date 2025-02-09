@@ -1,7 +1,4 @@
-<!-- Master Head Image -->
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/fda3ee5a-2cb0-4b64-9127-f72a037da6ab" width="520" height="520" />
-</p>
+
 
 <h1 align="center">Hi 👋, I'm Ilahin As</h1>
 <h3 align="center">A Passionate Frontend Developer from Azerbaijan 🇦🇿</h3>
