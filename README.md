@@ -1,6 +1,6 @@
 <!-- Master Head Image with Reduced Size -->
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/fda3ee5a-2cb0-4b64-9127-f72a037da6ab" width="600" height="600" />
+  <img src="https://github.com/user-attachments/assets/fda3ee5a-2cb0-4b64-9127-f72a037da6ab" width="400" height="400" />
 </p>
 
 
