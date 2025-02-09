@@ -1,6 +1,6 @@
 <!-- Master Head Image with Reduced Size -->
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/fda3ee5a-2cb0-4b64-9127-f72a037da6ab" width="500" height="500" />
+  <img src="https://github.com/user-attachments/assets/fda3ee5a-2cb0-4b64-9127-f72a037da6ab" width="400" height="400" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Ilahin As</h1>
