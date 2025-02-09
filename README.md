@@ -3,13 +3,6 @@
 
 
 
-
-
-
-
-
-
-
 <h1 align="center">A passionate frontend developer from Azerbaijan</h1>
 
 
